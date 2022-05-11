@@ -1,0 +1,9 @@
+1.id
+2.Summary
+3.Project
+4.Severity
+5.Priority
+6.author
+7.Expected result
+8.Result
+9.Steps to Reprosuce
